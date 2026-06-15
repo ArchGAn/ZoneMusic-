@@ -2,7 +2,9 @@
 
 A complete audio overhaul for Final Fantasy XI. Over 350 tracks — covers, remixes, and original compositions — spanning Vanilla, Rise of the Zilart, and Chains of Promathia. Day/night themes, battle music, boss themes, and more, all playing seamlessly as you explore Vana'diel.
 
-By **MoonRise (Eldorin)**
+By **MoonRise (Eldorin)**   
+
+Instructional video and features showcase here :  [Instructional video and introduction to addon](https://www.youtube.com/watch?v=bDOSbj4chYE&t=2s)
 
 ---
 
@@ -14,7 +16,7 @@ By **MoonRise (Eldorin)**
 ---
 
 ## Installation
-1. Download the music package here: [Nexus Mods](https://www.nexusmods.com/finalfantasy11/mods/34) | [Google Drive] (https://drive.google.com/file/d/1fw-bMa9PIomk_9YyMWjOeLiLngmtXTVg/view?usp=drive_link)
+1. Download the music package here: [Nexus Mods](https://www.nexusmods.com/finalfantasy11/mods/34) | [Google Drive](https://drive.google.com/file/d/1fw-bMa9PIomk_9YyMWjOeLiLngmtXTVg/view?usp=drive_link)
 
 1. Place the `ZoneMusic` folder into your Ashita `addons` folder. The package linked above, comes with the .lua and the sounds folder required
 2. Place the `polplugin` folder contents into your XIPivot overlay folder
