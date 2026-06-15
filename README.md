@@ -16,9 +16,9 @@ By **MoonRise (Eldorin)**
 ## Installation
 1. Download the package: [Nexus Mods](https://www.nexusmods.com/finalfantasy11/mods/34) | [Google Drive] (https://drive.google.com/file/d/1fw-bMa9PIomk_9YyMWjOeLiLngmtXTVg/view?usp=drive_link)
 
-2. Place the `addons` folder contents into your Ashita `addons` folder
-3. Place the `polplugin` folder contents into your XIPivot overlay folder
-4. In game, type `/addon load zonemusic` 
+1. Place the `ZoneMusic` folder into your Ashita `addons` folder. It comes with the .lua and the sounds folder required
+2. Place the `polplugin` folder contents into your XIPivot overlay folder
+3. In game, type `/addon load zonemusic` 
 That's it.
 
 Features:
