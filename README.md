@@ -5,6 +5,7 @@ A complete audio overhaul for Final Fantasy XI. Over 350 tracks — covers, remi
 By **MoonRise (Eldorin)**   
 
 Instructional video and features showcase here :  [Instructional video and introduction to addon](https://www.youtube.com/watch?v=bDOSbj4chYE&t=2s)
+AI assisted code~
 
 ---
 
